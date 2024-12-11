@@ -25,7 +25,7 @@ const countseconds = seconds % 60;
 return(
     <div>
     <div className="image">
-    <h1 className="titulo">ANALOG WATCH TIMER</h1>
+    <h1 className="titulo">WATCH TIMER</h1>
     <div className="padrecontador">
     <div>
     <div>
